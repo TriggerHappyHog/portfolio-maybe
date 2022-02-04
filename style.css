@@ -94,7 +94,7 @@ h1{
 }
 
 .content-box h2{
-    font-size: 18px;
+    /* font-size: 18px; */
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-weight: lighter;
     letter-spacing: 1rem;
